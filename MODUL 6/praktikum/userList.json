@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Axel",
+        "address" : "Mandomai",
+        "image" : "https://scontent.fbdj4-1.fna.fbcdn.net/v/t1.6435-9/166525407_778989866058219_6164041632046772871_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFmoLWgjsa2wAU-JzP5F7oqnPMQW_GN6T2c8xBb8Y3pPfjPLeLV1h1oZn9USHMM2h-ennNEwD_0mmfVJymHsTE_&_nc_ohc=2UJr0fyKpWEAX_v-St7&_nc_ht=scontent.fbdj4-1.fna&oh=0d4bd8792c4518b8c52d53d672631ae8&oe=60C7A9AE"
+    },
+
+    {
+        "name" : "Erlan",
+        "address" : "Jepang"
+        ,
+        "image" : "https://uifaces.co/our-content/donated/gPZwCbdS.jpg"
+    },
+
+    {
+        "name" : "Adit",
+        "address" : "Amerika",
+        "image" : "https://uifaces.co/our-content/donated/gPZwCbdS.jpg"
+    },
+    {
+        "name" : "Husin",
+        "address" : "Jepang",
+        "image" : "https://uifaces.co/our-content/donated/gPZwCbdS.jpg"
+    },
+    {
+        "name" : "Brian",
+        "address" : "Rusia",
+        "image" : "https://uifaces.co/our-content/donated/gPZwCbdS.jpg"
+    }
+]
