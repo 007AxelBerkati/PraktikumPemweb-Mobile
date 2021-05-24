@@ -26,6 +26,12 @@ c. Pada Modul 3 dengan Judul PHP MYSQL DATABASE, praktikkan belajar tentang baga
 
 ![image](https://user-images.githubusercontent.com/81006920/119418202-a5e8cd00-bd21-11eb-83a9-38c5c53637b6.png)
 
+![image](https://user-images.githubusercontent.com/81006920/119418746-e4cb5280-bd22-11eb-9acf-59a256bdf866.png)
+
+![image](https://user-images.githubusercontent.com/81006920/119418753-ea289d00-bd22-11eb-884b-cc45e5785f09.png)
+
+
+
 
 d. Pada Modul 4 dengan Judul AJAX, praktikkan belajar tentang bagaimana cara menggabungkan fitur PHP dengan JavaScript. kemudian, praktikkan juga belajar tentang bagaimana cara menampilkan data dari database menggunakan grafik. praktikkan juga belajar bagaimana cara membuat program web voting, dimana program voting tersebut disimpan kedalam database, dan ditampilkan juga kedalam suatu grafik. Berikut contoh output dari program yang dibuat
 
@@ -46,9 +52,13 @@ f. Pada Modul 6 dengan Judul Search List React Native, praktikkan belajar tentan
 
 ![image](https://user-images.githubusercontent.com/81006920/119418388-1a237080-bd22-11eb-8ba5-170359a7fb72.png)
 
+![image](https://user-images.githubusercontent.com/81006920/119418765-f280d800-bd22-11eb-98a4-eb75c19dac59.png)
+
+
 g. RESPONSI, melakukan pembuatan web profil sederhana secara berkelompok. Dalam tugas responsi kali ini, web profil yang kelompok kami buat ialah web profil dari usaha kuliner dan kopi yakni Vaksin Coffee. Berikut ini adalah link dari web profil yang telah dibuat: 
 
 https://vaksincoffee.000webhostapp.com/
 
-![image](https://user-images.githubusercontent.com/81006920/119418539-6a9ace00-bd22-11eb-8d01-5be1456ce515.png)
+![image](https://user-images.githubusercontent.com/81006920/119418798-06c4d500-bd23-11eb-86fe-af2aefcbf99b.png)
+
 
