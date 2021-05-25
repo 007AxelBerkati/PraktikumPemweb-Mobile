@@ -1,6 +1,7 @@
 PRAKTIKUM PEMROGRAMAN WEB DAN MOBILE
 
 NAMA : AXEL BERKATI
+
 NIM  : 193010503007
 
 a. Pada Modul 1 dengan Judul PHP, praktikkan belajar tentang dasar-dasar dari PHP. Praktikkan juga belajar membuat program yang menampilkan nama dalam array, serta bagaimana cara mengoperasikana atau menghitung jumlah kata, huruf, jumlah vokal dan konsonan, dan juga bagaimana cara membalikkan suatu kata. berikut Output program yang dibuat
@@ -61,4 +62,5 @@ https://vaksincoffee.000webhostapp.com/
 
 ![image](https://user-images.githubusercontent.com/81006920/119418798-06c4d500-bd23-11eb-86fe-af2aefcbf99b.png)
 
+berikut ini adalah link dari github pada saat mengerjakan project : https://github.com/adityaar18/cafe
 
